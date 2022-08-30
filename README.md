@@ -1,4 +1,4 @@
-** github.com/haystackandroid/snow has been disappeared from github. I reproduce it here from file on my `./vim/plugged`**
+## :warning: github.com/haystackandroid/snow has been disappeared from github. I reproduced it here from `./vim/plugged/snow` on my computer.
 
 ---
 
