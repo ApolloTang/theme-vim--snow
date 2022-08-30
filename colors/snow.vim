@@ -1,4 +1,4 @@
-" Name:         snow
+" Name:         vim-theme-snow-cloned
 " Author:       haystackandroid
 " Maintainer:   haystackandroid
 " License:      MIT
