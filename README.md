@@ -1,4 +1,8 @@
-## :warning: github.com/haystackandroid/snow has been disappeared from github. I reproduced it here from `./vim/plugged/snow` on my computer.
+https://github.com/haystackandroid/snow has been archived. 
+
+I am recreating it here from `./vim/plugged/snow/` on my computer.
+
+Apparently, snow theme is originally from https://github.com/nightsense, which is also archived: [https://web.archive.org/web/20200905073943/https://github.com/nightsense](https://web.archive.org/web/20200905073943/https://github.com/nightsense) 
 
 ---
 
